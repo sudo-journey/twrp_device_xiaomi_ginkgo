@@ -1,7 +1,5 @@
-# MIUI MOD : START
 # import /init.recovery.${ro.hardware}.rc
 import /init.recovery.hardware.rc
-import /miui.factoryreset.rc
 # END
 
 on early-init
